@@ -1,3 +1,6 @@
 # Boot Arrera Linux Script 
 
-Bout de code qui dois etre mis au debut des script d'Arrera Linux
+Bout de code qui doit être mis au début des scripts d’Arrera Linux
+
+
+[Readme in english](./readme_en.md) 
